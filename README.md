@@ -4,6 +4,7 @@ Agenda :
 •	Smoothing Methods
 •	Project on Time Series with Airlines dataset
 •	ARIMA Model 
+
 Time Series :
 1.	It is an sequence of values of a variable at equal spaced time internal .
 2.	It is a series of datapoints ordered in time .
